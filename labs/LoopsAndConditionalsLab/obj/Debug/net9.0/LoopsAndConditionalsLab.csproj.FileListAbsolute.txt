@@ -1,0 +1,15 @@
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.exe
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.deps.json
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.runtimeconfig.json
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.dll
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\bin\Debug\net9.0\LoopsAndConditionalsLab.pdb
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.AssemblyInfoInputs.cache
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.AssemblyInfo.cs
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.csproj.CoreCompileInputs.cache
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.sourcelink.json
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.dll
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\refint\LoopsAndConditionalsLab.dll
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.pdb
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\LoopsAndConditionalsLab.genruntimeconfig.cache
+C:\Node\GitPort\dev260_fall_2025\labs\LoopsAndConditionalsLab\obj\Debug\net9.0\ref\LoopsAndConditionalsLab.dll
