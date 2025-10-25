@@ -10,7 +10,7 @@
 **Custom Node Structure**
 
 implemented a custom Node<T> class with Data, Next, and Previous pointers.
->>>>>>>>>>>>>>>>>>>> meets the requirement.
+>>>>>>>>>>>>>> meets the requirement.
 
 2. Custom DoublyLinkedList Implementation
 
@@ -19,7 +19,7 @@ Manages its own head, tail, and count.
 Implements all core operations (AddFirst, AddLast, Insert, Remove, RemoveAt, Contains, etc.) using manual pointer manipulation.
 Traverses the list using Next and Previous pointers.
 Avoids using List<T> or LinkedList<T> for internal storage.
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>not using any built-in collection to store the list elements.
+>>>>>>>>>>>> not using any built-in collection to store the list elements.
 
 3. Use of Built-in Collections
 
