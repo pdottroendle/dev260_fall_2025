@@ -4,7 +4,30 @@
 **Due Date:** October 24th 2025  
 **Points:** 100
 
-## 📚 Learning Objectives
+
+## Notes 
+
+**Custom Node Structure**
+
+implemented a custom Node<T> class with Data, Next, and Previous pointers.
+>>>>>>>>>>>>>>>>>>>> meets the requirement.
+
+2. Custom DoublyLinkedList Implementation
+
+DoublyLinkedList<T> class:
+Manages its own head, tail, and count.
+Implements all core operations (AddFirst, AddLast, Insert, Remove, RemoveAt, Contains, etc.) using manual pointer manipulation.
+Traverses the list using Next and Previous pointers.
+Avoids using List<T> or LinkedList<T> for internal storage.
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>not using any built-in collection to store the list elements.
+
+3. Use of Built-in Collections
+
+The only use of List<T> is in the performance comparison section (outside this file), for benchmarking purposes.
+
+** DoublyLinkedList<T> implementation should meet the “No Built-in Collections” requirement ?**
+
+##  Learning Objectives
 
 By completing this assignment, you will:
 
@@ -12,12 +35,12 @@ By completing this assignment, you will:
 2. **Implement** a generic doubly linked list from scratch through guided steps
 3. **Apply** doubly linked lists to a real-worl---
 
-## 📚 Learning Resource playlist scenario
+##  Learning Resource playlist scenario
 
 4. **Analyze** performance characteristics compared to other data structures
 5. **Master** pointer manipulation and memory management concepts
 
-## 🎯 Assignment Overview
+##  Assignment Overview
 
 This assignment is divided into two progressive parts with procedural, step-by-step implementation:
 
@@ -28,11 +51,11 @@ This assignment is divided into two progressive parts with procedural, step-by-s
 
 ---
 
-## 📋 Part A: Core Implementation (60 points)
+## Part A: Core Implementation (60 points)
 
 ### Step 1: Node Structure (5 points)
 
-**📚 Reference:** [Doubly Linked List Introduction](https://www.c-sharpcorner.com/article/doubly-linked-list-and-circular-linked-list-in-c-sharp/) - C# Corner
+** Reference:** [Doubly Linked List Introduction](https://www.c-sharpcorner.com/article/doubly-linked-list-and-circular-linked-list-in-c-sharp/) - C# Corner
 
 **File:** `DoublyLinkedList.cs`
 
@@ -509,17 +532,4 @@ Your program should provide a menu system that demonstrates:
 3. Error handling and edge cases
 4. Current song tracking and display
 
----
 
-## 🎯 Tips for Success
-
-1. **Start early** - This assignment builds complexity step by step
-2. **Test frequently** - Don't write multiple methods before testing
-3. **Draw diagrams** - Visualize your pointer connections
-4. **Use the debugger** - Step through your code to see how pointers change
-5. **Handle edge cases** - Empty lists, single elements, invalid inputs
-6. **Document your thinking** - Comment your code as you write it
-
-Remember: The goal is to understand doubly linked lists deeply through hands-on implementation. Take your time with each step and make sure you understand the pointer manipulation before moving forward!
-
-**Good luck, and happy coding!** 🚀
