@@ -1,3 +1,6 @@
+Notes from the instructor Zak:
+
+
 # Assignment 5: Browser Navigation System
 
 ## 🌐 Overview
