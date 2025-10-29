@@ -132,6 +132,15 @@ Display formatting needed adjustment for clarity.
 ## Stretch Features
 
 used ip address instead of domain names to test it did also work
+Debuggung Git
+Lost files getting them back rollback
+git reflog
+04c491b HEAD@{0}: commit: Completed Assignment 5: Browser Navigation System – all features tested and working
+git reset --hard 04c491b
+git pull origin main --rebase
+git push origin main
+
+
 
 ## Time Spent
 
