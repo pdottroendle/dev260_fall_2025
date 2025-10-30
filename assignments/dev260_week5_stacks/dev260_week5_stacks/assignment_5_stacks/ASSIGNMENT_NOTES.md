@@ -1,4 +1,5 @@
 # Assignment 5: Browser Navigation System - Implementation Notes
+// PP TROENDLE BELLEVUE COLLEGE DEV 260 FALL 2025 SUPERVISOR ZACK
 
 Peter-Paul Troendle
 
