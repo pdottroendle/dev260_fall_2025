@@ -1,0 +1,15 @@
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\bin\Debug\net9.0\QueueLab.exe
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\bin\Debug\net9.0\QueueLab.deps.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\bin\Debug\net9.0\QueueLab.runtimeconfig.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\bin\Debug\net9.0\QueueLab.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\bin\Debug\net9.0\QueueLab.pdb
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\QueueLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\QueueLab.AssemblyInfoInputs.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\QueueLab.AssemblyInfo.cs
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\QueueLab.csproj.CoreCompileInputs.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\QueueLab.sourcelink.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\QueueLab.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\refint\QueueLab.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\QueueLab.pdb
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\QueueLab.genruntimeconfig.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\lab_6_queue\obj\Debug\net9.0\ref\QueueLab.dll

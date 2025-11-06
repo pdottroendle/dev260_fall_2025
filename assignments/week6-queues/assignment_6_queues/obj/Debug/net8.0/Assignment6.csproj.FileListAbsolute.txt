@@ -1,0 +1,15 @@
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\bin\Debug\net8.0\Assignment6.exe
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\bin\Debug\net8.0\Assignment6.deps.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\bin\Debug\net8.0\Assignment6.runtimeconfig.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\bin\Debug\net8.0\Assignment6.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\bin\Debug\net8.0\Assignment6.pdb
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\Assignment6.AssemblyInfoInputs.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\Assignment6.AssemblyInfo.cs
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\Assignment6.csproj.CoreCompileInputs.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\Assignment6.sourcelink.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\Assignment6.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\refint\Assignment6.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\Assignment6.pdb
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\Assignment6.genruntimeconfig.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week6-queues\assignment_6_queues_updated\obj\Debug\net8.0\ref\Assignment6.dll
