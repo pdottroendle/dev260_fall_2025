@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|c:\\node\\gitport\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|c:\\node\\gitport\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\core\\corelistdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|solutionrelative:core\\corelistdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|c:\\node\\gitport\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\applications\\musicplaylistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|solutionrelative:applications\\musicplaylistmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|c:\\node\\gitport\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\core\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|solutionrelative:core\\doublylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|c:\\node\\gitport\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\applications\\musicplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445712D3-4787-EC12-6527-C4AB6CFE05EE}|Assignment3.csproj|solutionrelative:applications\\musicplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusicPlaylistManager.cs",
+              "DocumentMoniker": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Applications\\MusicPlaylistManager.cs",
+              "RelativeDocumentMoniker": "Applications\\MusicPlaylistManager.cs",
+              "ToolTip": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Applications\\MusicPlaylistManager.cs",
+              "RelativeToolTip": "Applications\\MusicPlaylistManager.cs",
+              "ViewState": "AgIAAKIBAAAAAAAAAAAswHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:21:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoublyLinkedList.cs",
+              "DocumentMoniker": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Core\\DoublyLinkedList.cs",
+              "RelativeDocumentMoniker": "Core\\DoublyLinkedList.cs",
+              "ToolTip": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Core\\DoublyLinkedList.cs",
+              "RelativeToolTip": "Core\\DoublyLinkedList.cs",
+              "ViewState": "AgIAAOEBAAAAAAAAAAAiwOwBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:21:33.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:21:19.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicPlaylist.cs",
+              "DocumentMoniker": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Applications\\MusicPlaylist.cs",
+              "RelativeDocumentMoniker": "Applications\\MusicPlaylist.cs",
+              "ToolTip": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Applications\\MusicPlaylist.cs",
+              "RelativeToolTip": "Applications\\MusicPlaylist.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAiwHAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:38:59.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoreListDemo.cs",
+              "DocumentMoniker": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Core\\CoreListDemo.cs",
+              "RelativeDocumentMoniker": "Core\\CoreListDemo.cs",
+              "ToolTip": "C:\\Node\\GitPort\\dev260_fall_2025\\assignments\\assignment_3_doubly_linked_lists\\assignment_3_doubly_linked_lists\\Core\\CoreListDemo.cs",
+              "RelativeToolTip": "Core\\CoreListDemo.cs",
+              "ViewState": "AgIAAEwCAAAAAAAAAAAiwFUCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T23:33:26.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

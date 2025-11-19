@@ -1,0 +1,845 @@
+Test Protocol
+
+Peter Paul Troendle
+Bellevue College
+Fall 2025 DEV260
+
+======================================================================
+
+
+=== PART A: CORE DOUBLY LINKED LIST OPERATIONS ===
+
+This demo follows the step-by-step assignment structure.
+Test each step as you implement it to ensure correctness!
+
+?? Tip: Start with Steps 1-2 (Node and basic structure),
+   then proceed through Steps 3-7 in order.
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 0
+IsEmpty: True
+First: null
+Last: null
+
+?? List is empty.
+?? List is empty.
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: 3
+
+=== TESTING STEP 3: ADD OPERATIONS ===
+?? Assignment Reference: Step 3a-3c
+
+Testing AddFirst (Step 3a):
+Enter value to add to beginning: 11
+? Added 11 to beginning
+?? Forward Traversal:
+11
+
+Testing AddLast (Step 3b):
+Enter value to add to end: 00
+? Added 0 to end
+?? Forward Traversal:
+11
+0
+
+Testing Insert at position (Step 3c):
+Enter index (0 to 2): 2
+Enter value to insert: 99
+? Inserted 99 at index 2
+?? Forward Traversal:
+11
+0
+99
+
+?? Step 3 Complete! Your add operations are working.
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 3
+IsEmpty: False
+First: 11
+Last: 99
+
+?? Forward Traversal:
+11
+0
+99
+?? Backward Traversal:
+99
+0
+11
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: 4
+
+=== TESTING STEP 4: TRAVERSAL OPERATIONS ===
+?? Assignment Reference: Step 4a-4c
+
+Testing Forward Traversal (Step 4a):
+?? Forward Traversal:
+11
+0
+99
+
+Testing Backward Traversal (Step 4b):
+?? This demonstrates the power of doubly linked lists!
+?? Backward Traversal:
+99
+0
+11
+
+Testing ToArray conversion (Step 4c):
+Array result: [11, 0, 99]
+
+Testing IEnumerable (foreach) support:
+Foreach result: 11 0 99
+
+?? Step 4 Complete! Your traversal methods are working.
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 3
+IsEmpty: False
+First: 11
+Last: 99
+
+?? Forward Traversal:
+11
+0
+99
+?? Backward Traversal:
+99
+0
+11
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: 5
+
+=== TESTING STEP 5: SEARCH OPERATIONS ===
+?? Assignment Reference: Step 5a-5c
+
+Enter value to search for: 99
+
+Testing Contains (Step 5a):
+Contains(99): ? Found
+
+Testing Find (Step 5b):
+Find(99): ? Found node with value 99
+
+Testing IndexOf (Step 5c):
+IndexOf(99): ? Found at index 2
+
+?? Step 5 Complete! Your search operations are working.
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 3
+IsEmpty: False
+First: 11
+Last: 99
+
+?? Forward Traversal:
+11
+0
+99
+?? Backward Traversal:
+99
+0
+11
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: 6
+
+=== TESTING STEP 6: REMOVE OPERATIONS ===
+?? Assignment Reference: Step 6a-6d
+
+Choose remove operation to test:
+1. RemoveFirst (Step 6a)
+2. RemoveLast (Step 6b)
+3. Remove by value (Step 6c)
+4. RemoveAt index (Step 6d)
+4
+Testing RemoveAt index (Step 6d):
+Enter index (0 to 2): 2
+? Removed 99 from index 2
+?? Forward Traversal:
+11
+0
+
+?? Step 6 Complete! Your remove operations are working.
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 2
+IsEmpty: False
+First: 11
+Last: 0
+
+?? Forward Traversal:
+11
+0
+?? Backward Traversal:
+0
+11
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: 4
+
+=== TESTING STEP 4: TRAVERSAL OPERATIONS ===
+?? Assignment Reference: Step 4a-4c
+
+Testing Forward Traversal (Step 4a):
+?? Forward Traversal:
+11
+0
+
+Testing Backward Traversal (Step 4b):
+?? This demonstrates the power of doubly linked lists!
+?? Backward Traversal:
+0
+11
+
+Testing ToArray conversion (Step 4c):
+Array result: [11, 0]
+
+Testing IEnumerable (foreach) support:
+Foreach result: 11 0
+
+?? Step 4 Complete! Your traversal methods are working.
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 2
+IsEmpty: False
+First: 11
+Last: 0
+
+?? Forward Traversal:
+11
+0
+?? Backward Traversal:
+0
+11
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: 7
+
+=== TESTING STEP 7: ADVANCED OPERATIONS ===
+?? Assignment Reference: Step 7a-7b
+
+Choose advanced operation to test:
+1. Reverse list (Step 7b)
+2. Clear list (Step 7a)
+1
+Testing Reverse (Step 7b):
+Before reverse:
+?? Forward Traversal:
+11
+0
+After reverse:
+?? Forward Traversal:
+0
+11
+? Reverse operation successful!
+?? This demonstrates the power of doubly linked lists - easy reversal!
+
+?? Step 7 Complete! Your advanced operations are working.
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 2
+IsEmpty: False
+First: 0
+Last: 11
+
+?? Forward Traversal:
+0
+11
+?? Backward Traversal:
+11
+0
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: 4
+
+=== TESTING STEP 4: TRAVERSAL OPERATIONS ===
+?? Assignment Reference: Step 4a-4c
+
+Testing Forward Traversal (Step 4a):
+?? Forward Traversal:
+0
+11
+
+Testing Backward Traversal (Step 4b):
+?? This demonstrates the power of doubly linked lists!
+?? Backward Traversal:
+11
+0
+
+Testing ToArray conversion (Step 4c):
+Array result: [0, 11]
+
+Testing IEnumerable (foreach) support:
+Foreach result: 0 11
+
+?? Step 4 Complete! Your traversal methods are working.
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 2
+IsEmpty: False
+First: 0
+Last: 11
+
+?? Forward Traversal:
+0
+11
+?? Backward Traversal:
+11
+0
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: 7
+
+=== TESTING STEP 7: ADVANCED OPERATIONS ===
+?? Assignment Reference: Step 7a-7b
+
+Choose advanced operation to test:
+1. Reverse list (Step 7b)
+2. Clear list (Step 7a)
+2
+Testing Clear (Step 7a):
+Before clear - Count: 2
+After clear:
+=== DOUBLY LINKED LIST STATE ===
+Count: 0
+IsEmpty: True
+First: null
+Last: null
+
+?? List is empty.
+?? List is empty.
+
+? Clear operation successful!
+
+?? Step 7 Complete! Your advanced operations are working.
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 0
+IsEmpty: True
+First: null
+Last: null
+
+?? List is empty.
+?? List is empty.
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: 4
+
+=== TESTING STEP 4: TRAVERSAL OPERATIONS ===
+?? Assignment Reference: Step 4a-4c
+
+??  List is empty. Add some elements first to test traversal.
+?? Tip: Implement and test Step 3 (Add Methods) first!
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+Count: 0
+IsEmpty: True
+First: null
+Last: null
+
+?? List is empty.
+?? List is empty.
+
+
+=== ASSIGNMENT STEPS TESTING MENU ===
+Test each step as you implement it:
+
+?? IMPLEMENTATION STEPS:
+  Steps 1-2: Node & basic structure (implement first)
+
+?? TESTING OPTIONS:
+  3  ␦ Test Step 3: Add Methods (AddFirst, AddLast, Insert)
+  4  ␦ Test Step 4: Traversal Methods (Forward, Backward, ToArray)
+  5  ␦ Test Step 5: Search Methods (Contains, Find, IndexOf)
+  6  ␦ Test Step 6: Remove Methods (RemoveFirst, RemoveLast, etc.)
+  7  ␦ Test Step 7: Advanced Operations (Reverse, Clear)
+
+?? COMPREHENSIVE TESTING:
+  A  ␦ Test All Basic Operations (Steps 3-6)
+  P  ␦ Performance Test
+
+???  UTILITIES:
+  R  ␦ Reset List
+  Q  ␦ Return to Main Menu
+
+Enter your choice: R
+
+List has been reset to empty state.
+
+Press any key to continue...
+
+=== CURRENT LIST STATE ===
+=== DOUBLY LINKED LIST STATE ===
+?? Loaded sample songs for testing
+=== PART B: MUSIC PLAYLIST MANAGER ===
+
+Demonstrates practical application of doubly linked lists!
+Test your Step 8-11 implementations here.
+
+
+?? Current Song:
+Bohemian Rhapsody - Queen [, 0] (05:55) []
+
+=== MUSIC PLAYLIST MANAGER ===
+1. Add Sample Song
+2. Remove Song
+3. Navigate Playlist
+4. Display Playlist
+5. Add Custom Song
+6. Reset Playlist
+7. Exit
+Enter your choice: 1
+
+1. Add to end
+2. Add at position
+Choose an option: 1
+ Song added to end.
+
+Press any key to continue...
+
+
+?? Current Song:
+Bohemian Rhapsody - Queen [, 0] (05:55) []
+
+=== MUSIC PLAYLIST MANAGER ===
+1. Add Sample Song
+2. Remove Song
+3. Navigate Playlist
+4. Display Playlist
+5. Add Custom Song
+6. Reset Playlist
+7. Exit
+Enter your choice: 3
+
+=== TESTING STEP 10c: NAVIGATION ===
+?? Assignment Reference: Step 10c in Part B
+?? This demonstrates the power of doubly linked lists!
+
+1. Test Next() - move to next song
+2. Test Previous() - move to previous song
+3. Test JumpToSong() - jump to specific position
+
+1
+Testing Next method:
+? Moved to next song
+Current song: Hotel California by Eagles (06:30)
+
+Press any key to continue...
+1
+
+?? Current Song:
+Hotel California - Eagles [, 0] (06:30) []
+
+=== MUSIC PLAYLIST MANAGER ===
+1. Add Sample Song
+2. Remove Song
+3. Navigate Playlist
+4. Display Playlist
+5. Add Custom Song
+6. Reset Playlist
+7. Exit
+Enter your choice:
+
+Invalid choice. Please try again.
+
+Press any key to continue...
+1
+
+?? Current Song:
+Hotel California - Eagles [, 0] (06:30) []
+
+=== MUSIC PLAYLIST MANAGER ===
+1. Add Sample Song
+2. Remove Song
+3. Navigate Playlist
+4. Display Playlist
+5. Add Custom Song
+6. Reset Playlist
+7. Exit
+Enter your choice:
+
+Invalid choice. Please try again.
+
+Press any key to continue...
+3
+
+?? Current Song:
+Hotel California - Eagles [, 0] (06:30) []
+
+=== MUSIC PLAYLIST MANAGER ===
+1. Add Sample Song
+2. Remove Song
+3. Navigate Playlist
+4. Display Playlist
+5. Add Custom Song
+6. Reset Playlist
+7. Exit
+Enter your choice:
+
+Invalid choice. Please try again.
+
+Press any key to continue...
+3
+
+?? Current Song:
+Hotel California - Eagles [, 0] (06:30) []
+
+=== MUSIC PLAYLIST MANAGER ===
+1. Add Sample Song
+2. Remove Song
+3. Navigate Playlist
+4. Display Playlist
+5. Add Custom Song
+6. Reset Playlist
+7. Exit
+Enter your choice: 3
+
+=== TESTING STEP 10c: NAVIGATION ===
+?? Assignment Reference: Step 10c in Part B
+?? This demonstrates the power of doubly linked lists!
+
+1. Test Next() - move to next song
+2. Test Previous() - move to previous song
+3. Test JumpToSong() - jump to specific position
+
+1
+Testing Next method:
+? Moved to next song
+Current song: Imagine by John Lennon (03:03)
+
+Press any key to continue...
+
+
+?? Current Song:
+Imagine - John Lennon [, 0] (03:03) []
+
+=== MUSIC PLAYLIST MANAGER ===
+1. Add Sample Song
+2. Remove Song
+3. Navigate Playlist
+4. Display Playlist
+5. Add Custom Song
+6. Reset Playlist
+7. Exit
+Enter your choice: 4
+
+=== TESTING STEP 11: DISPLAY METHODS ===
+?? Assignment Reference: Step 11 in Part B
+=== DOUBLY LINKED LIST DEMO ===
+
+Choose an option:
+
+1. Core List Operations Demo (Part A)
+   ␦ Test step-by-step doubly linked list functionality
+
+2. Music Playlist Manager (Part B)
+   ␦ Manage songs and playlists with advanced controls
+
+3. Performance Comparison (Bonus)
+   ␦ Compare doubly linked lists with other data structures
+
+4. Exit Program
+
+Enter your choice (1-4):3
+
+=== ASSIGNMENT 3: DOUBLY LINKED LISTS ===
+Data Structures & Algorithms - Step-by-Step Implementation
+
+=== DOUBLY LINKED LIST DEMO ===
+
+Choose an option:
+
+1. Core List Operations Demo (Part A)
+   ␦ Test step-by-step doubly linked list functionality
+
+2. Music Playlist Manager (Part B)
+   ␦ Manage songs and playlists with advanced controls
+
+3. Performance Comparison (Bonus)
+   ␦ Compare doubly linked lists with other data structures
+
+4. Exit Program
+
+Enter your choice (1-4): 3
+=== PERFORMANCE TEST ===
+
+Comparing data structures...
+
+--- Performance Summary for 100 Elements ---
+List<T>: Insert=0.043900 ms
+         Remove=0.486900 ms
+         Search=0.019800 ms
+Array:   Insert=0.000500 ms
+         Remove=0.366400 ms
+         Search=0.408700 ms
+DLL:     Insert=0.307800 ms
+         Remove=0.534100 ms
+         Search=0.088200 ms
+
+--- Performance Summary for 1000 Elements ---
+List<T>: Insert=0.022500 ms
+         Remove=0.001400 ms
+         Search=0.000500 ms
+Array:   Insert=0.002700 ms
+         Remove=0.017700 ms
+         Search=0.205000 ms
+DLL:     Insert=0.066500 ms
+         Remove=0.008400 ms
+         Search=0.015200 ms
+
+--- Performance Summary for 10000 Elements ---
+List<T>: Insert=0.150400 ms
+         Remove=0.002700 ms
+         Search=0.002900 ms
+Array:   Insert=0.024100 ms
+         Remove=0.055700 ms
+         Search=2.796600 ms
+DLL:     Insert=0.867300 ms
+         Remove=0.081800 ms
+         Search=0.100700 ms
+
+Press any key to continue...
+
+
+conclusion =====================================================
+List<T> seems best in all cathegories
+
+
+Hence, for 100 elements:
+
+Array is fastest for insertion.
+List is fastest for search.
+DLL is slower overall but still reasonable.
+
+but, for 1000 elements:
+
+List and Array are extremely fast.
+DLL still shows decent performance, especially in search.
+
+and For 10,000 elements:
+
+Array search time increases significantly (likely due to linear search).
+DLL maintains relatively stable search performance.
+List remains efficient across all operations.
