@@ -1,0 +1,15 @@
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\bin\Debug\net9.0\lab-8-sets.exe
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\bin\Debug\net9.0\lab-8-sets.deps.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\bin\Debug\net9.0\lab-8-sets.runtimeconfig.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\bin\Debug\net9.0\lab-8-sets.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\bin\Debug\net9.0\lab-8-sets.pdb
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\lab-8-sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\lab-8-sets.AssemblyInfoInputs.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\lab-8-sets.AssemblyInfo.cs
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\lab-8-sets.csproj.CoreCompileInputs.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\lab-8-sets.sourcelink.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\lab-8-sets.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\refint\lab-8-sets.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\lab-8-sets.pdb
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\lab-8-sets.genruntimeconfig.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_lab\dev260_week_8_sets_lab\obj\Debug\net9.0\ref\lab-8-sets.dll
