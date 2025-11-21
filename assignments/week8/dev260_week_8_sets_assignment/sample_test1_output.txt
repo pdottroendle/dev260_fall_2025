@@ -1,0 +1,23 @@
+Sample Output for sample.txt
+
+Dictionary loaded from dictionary.txt (basic English words).
+Text analyzed from sample_test1.txt.
+
+Stats after analysis and categorization:
+Total words: 91
+Unique words: 63
+Correctly spelled: 45
+Misspelled: 18
+Spelling accuracy: 71.4%
+
+Misspelled words (first 10):
+becuase      excersize     erors         multipel
+misspeled    particulary   checker       functionality
+hashset      students      ...
+
+Unique words sample (first 20):
+a            analysis       and           appear
+becuase      both           checker       classic
+common       contains       correct       correctly
+data         difference     dog           excersize
+file         for            functionality hashs

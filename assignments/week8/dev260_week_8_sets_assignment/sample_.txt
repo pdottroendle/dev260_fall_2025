@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog. This is a classic sentence that contains many common words and some interesting patterns for spell checking.
+
+However, there are also some misspeled words in this text that the spell checker should identify. For instance, "misspeled" should be "misspelled" and there might be other erors as well.

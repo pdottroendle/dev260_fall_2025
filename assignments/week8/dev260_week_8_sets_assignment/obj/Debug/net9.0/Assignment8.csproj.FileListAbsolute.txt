@@ -1,0 +1,15 @@
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.exe
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.deps.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.runtimeconfig.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\bin\Debug\net9.0\Assignment8.pdb
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.AssemblyInfoInputs.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.AssemblyInfo.cs
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.csproj.CoreCompileInputs.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.sourcelink.json
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\refint\Assignment8.dll
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.pdb
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\Assignment8.genruntimeconfig.cache
+C:\Node\GitPort\dev260_fall_2025\assignments\week8\dev260_week_8_sets_assignment\obj\Debug\net9.0\ref\Assignment8.dll
