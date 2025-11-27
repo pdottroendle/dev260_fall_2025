@@ -1,0 +1,25 @@
+# Ignore Visual Studio temporary files, build results, and cache
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.vsidx
+*.dbmdl
+*.pdb
+*.exe
+*.dll
+*.tmp
+*.ide
+*.swp
+*.bak
+*.nupkg
+*.nuget/
+TestResults/
+*.coverage
+*.coveragexml
+_ReSharper*/
+packages/
+project.lock.json
