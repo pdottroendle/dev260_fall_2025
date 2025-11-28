@@ -1,0 +1,15 @@
+
+# .NET / C#
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+# VS Code
+.vscode/
+# Rider/Resharper
+.idea/
+# Logs
+*.log
